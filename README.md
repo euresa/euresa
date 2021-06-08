@@ -1,5 +1,5 @@
 - 👋 Hey there! Sam Eure here. Welcome to my github account!
-- I'm interested in statistical and computational methods used to complex problems
+- I'm interested in solving complex problems with statistical and computational methods
 - I also hold a BS in Mathematics from Duke University 
 - 📫 Reach out to me if you have statistical/mathematical/computational problems!
 
