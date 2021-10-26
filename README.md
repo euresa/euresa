@@ -1,4 +1,4 @@
-- 👋 Hey there! Sam Eure here. Welcome to my github account!
+- 👋 Hey there! Welcome to my github account!
 - I'm interested in solving complex problems with statistical and computational methods
 - I also hold a BS in Mathematics from Duke University 
 - Currently working as a Full Stack Developer at EzTrain!
