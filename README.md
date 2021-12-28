@@ -1,7 +1,5 @@
 - 👋 Hey there! Welcome to my github account!
 - I'm interested in solving complex problems with statistical and computational methods
-- I also hold a BS in Mathematics from Duke University 
-- Currently working as a Software Engineer at EzTrain LLC
 
 <!---
 - I'll be starting my PhD in Statistics at the University of Washington in Fall 2021
