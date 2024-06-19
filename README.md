@@ -1,2 +1,5 @@
 - 👋 Hey there! Welcome to my github account!
-- I enjoy learning about and building new things.
+- 🏖️ From Southern Shores, NC
+- 📖 B.S. Mathematics from Duke University
+- 🏠 Living in Durham, NC
+- 💻 Software Engineer at NVIDIA
